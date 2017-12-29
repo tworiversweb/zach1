@@ -287,7 +287,8 @@ h3,
 .footer-img {
     margin-right: auto;
     margin-left: auto;
-    max-width: 60%;
+    max-height: 8em;
+    border: none;
 }
 
 .well3 {
